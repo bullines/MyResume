@@ -40,4 +40,4 @@ Developed customized CAD/CAM software solutions for the manufacturing industry. 
 
 ### Lake Superior State University - Sault St. Marie, Michigan
 
-#### B.Sc., Computer and Mathematical Sciences
+#### B.Sc., Computer and Mathematical Sciences - December 1999
