@@ -88,6 +88,6 @@ abilities.
 
 #### B.Sc., Computer and Mathematical Sciences - Dec 1999
 
-### References
+## References
 
 Available upon request.
