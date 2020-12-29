@@ -6,13 +6,10 @@ chris@chrisbellini.com
 
 ## Overview
 
-Software Developer in a variety of business applications.
-
-Specialties includeweb development, Internet technologies, computer hardware, problem solving, technical and non-technical communication.
-
-Always interested in the latest programming, Internet and computer technologies.
-
-Focused on both technical and non-technical communication.
+- Enthusiastic software professional with proven technical, leadership, interpersonal and creative
+abilities.
+- Experienced in all stages of the software development lifecycle using Agile and Waterfall methodologies.
+- Adept at leading projects and teams, crafting innovative solutions, mentoring, and communicating with team members, associates, stakeholders and business leaders.
 
 ## Experience
 
@@ -89,7 +86,7 @@ Focused on both technical and non-technical communication.
 
 ### [Lake Superior State University](https://lssu.edu) - Sault St. Marie, Michigan
 
-#### B.Sc., Computer and Mathematical Sciences - December 1999
+#### B.Sc., Computer and Mathematical Sciences - Dec 1999
 
 ### References
 
